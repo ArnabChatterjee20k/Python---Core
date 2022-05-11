@@ -1,0 +1,7 @@
+functions required for calc:
+1)press(n)
+2)clear=("")
+   for this set expression 
+3)equal=total means evaluation of the strings entered through buttons
+4)backspace=first len(expression) then len-1(b) 
+            then print expression[b]

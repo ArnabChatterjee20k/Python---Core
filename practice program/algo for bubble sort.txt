@@ -1,0 +1,7 @@
+j is used for length of list
+k for previous value of j
+j=9
+then k=8
+
+if k>j
+then k,j=j,k {swap}

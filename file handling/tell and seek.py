@@ -1,0 +1,10 @@
+### seeing posn of file pointer(tell) and reseting it(seek)
+f = open("writing.txt")
+f.seek(11)
+print(f.tell())
+print(f.readline())
+# print(f.tell())
+
+print(f.readline())
+# print(f.tell())
+f.close()

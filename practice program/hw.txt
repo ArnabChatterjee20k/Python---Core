@@ -1,0 +1,16 @@
+8.Write a Python program to find the repeated items of a tuple.  
+9.Write a Python program to check whether an element exists within a tuple. 
+10.Write a Python program to convert a list to a tuple.
+
+#Write a Python program to check whether an element exists within a tuple. 
+t=(1,2)
+print(any(t))
+t2=()
+print(any(t2))
+
+#Write a Python program to convert a list to a tuple.
+l=[1,2,4,3,5]
+print(tuple(l))
+
+
+
