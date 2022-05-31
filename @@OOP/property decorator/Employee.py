@@ -1,4 +1,6 @@
 """
+
+    TODO: getter
     using property decorator we can use a method as an attribute.
     
     TODO: setter
